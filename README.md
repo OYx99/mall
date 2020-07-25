@@ -1,2 +1,1 @@
-# book-shop
-基于Spring Boot的网上商城网站
+# SpringBoot网上商城

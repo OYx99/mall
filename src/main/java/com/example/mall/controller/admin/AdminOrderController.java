@@ -1,4 +1,4 @@
-package com.example.mall.web.admin;
+package com.example.mall.controller.admin;
 
 import com.example.mall.entity.Order;
 import com.example.mall.entity.OrderItem;
@@ -22,7 +22,6 @@ public class AdminOrderController {
 
     /**
      * 打开订单列表页面
-     * @return
      */
     @RequestMapping("/toList.html")
     public String toList() {
@@ -31,7 +30,6 @@ public class AdminOrderController {
 
     /**
      * 获取所有订单的总数
-     * @return
      */
     @ResponseBody
     @RequestMapping("/getTotal.do")
@@ -43,9 +41,6 @@ public class AdminOrderController {
 
     /**
      * 获取所有订单
-     * @param pageindex
-     * @param pageSize
-     * @return
      */
     @ResponseBody
     @RequestMapping("/list.do")
@@ -58,8 +53,6 @@ public class AdminOrderController {
 
     /**
      * 获取订单项
-     * @param orderId
-     * @return
      */
     @ResponseBody
     @RequestMapping("/getDetail.do")
@@ -70,8 +63,6 @@ public class AdminOrderController {
 
     /**
      * 发货
-     * @param id
-     * @return
      */
     @ResponseBody
     @RequestMapping("/send.do")

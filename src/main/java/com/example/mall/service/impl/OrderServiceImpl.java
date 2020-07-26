@@ -67,8 +67,6 @@ public class OrderServiceImpl implements OrderService {
 
     /**
      * 查询订单项详情
-     * @param orderId
-     * @return
      */
     @Override
     public List<OrderItem> findItems(int orderId) {
@@ -82,9 +80,6 @@ public class OrderServiceImpl implements OrderService {
 
     /**
      * 更改订单状态
-     *
-     * @param id
-     * @param status
      */
     @Override
     public void updateStatus(int id, int status) {
@@ -95,9 +90,6 @@ public class OrderServiceImpl implements OrderService {
 
     /**
      * 查找用户的订单列表
-     *
-     * @param request
-     * @return
      */
     @Override
     public List<Order> findUserOrder(HttpServletRequest request) {
@@ -112,33 +104,27 @@ public class OrderServiceImpl implements OrderService {
 
     /**
      * 支付
-     *
-     * @param orderId
      */
     @Override
     public void pay(int orderId) {
         //具体逻辑就不实现了，直接更改状态为 待发货
         Order order = orderDao.findOne(orderId);
-        if (order == null)
+        if (order == null) {
             throw new RuntimeException("订单不存在");
+        }
         orderDao.updateState(STATE_WAITE_SEND,order.getId());
     }
 
     /**
      * 提交订单
-     *
-     * @param name
-     * @param phone
-     * @param addr
-     * @param request
-     * @param response
      */
     @Override
-    @Transactional
+    @Transactional(rollbackFor = Exception.class)
     public void submit(String name, String phone, String addr, HttpServletRequest request, HttpServletResponse response) throws Exception {
         Object user = request.getSession().getAttribute("user");
-        if (user == null)
+        if (user == null) {
             throw new LoginException("请登录！");
+        }
         User loginUser = (User) user;
         Order order = new Order();
         order.setName(name);
@@ -159,19 +145,19 @@ public class OrderServiceImpl implements OrderService {
         order.setTotal(total);
         orderDao.save(order);
         //重定向到订单列表页面
+        shopCartService.clear(request);
         response.sendRedirect("/mall/order/toList.html");
     }
 
     /**
      * 确认收货
-     *
-     * @param orderId
      */
     @Override
     public void receive(int orderId) {
         Order order = orderDao.findOne(orderId);
-        if (order == null)
+        if (order == null) {
             throw new RuntimeException("订单不存在");
+        }
         orderDao.updateState(STATE_COMPLETE,order.getId());
     }
 }

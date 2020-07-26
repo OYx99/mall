@@ -1,4 +1,4 @@
-package com.example.mall.web.admin;
+package com.example.mall.controller.admin;
 
 import com.example.mall.entity.Classification;
 import com.example.mall.entity.pojo.ResultBean;
@@ -24,15 +24,14 @@ public class AdminClassificationController {
 
     /**
      * 返回列表页面
-     *
-     * @param type
-     * @return
      */
     @RequestMapping("/toList.html")
     public String toList(int type) {
-        if (type == 1) {// 一级分类页面
+        if (type == 1) {
+            // 一级分类页面
             return "admin/category/list";
-        } else if (type == 2) {// 二级分类页面
+        } else if (type == 2) {
+            // 二级分类页面
             return "admin/categorysec/list";
         } else {
             return "";
@@ -41,15 +40,14 @@ public class AdminClassificationController {
 
     /**
      * 打开添加分类页面
-     *
-     * @param type
-     * @return
      */
     @RequestMapping("/toAdd.html")
     public String toAdd(int type) {
-        if (type == 1) {// 一级分类页面
+        if (type == 1) {
+            // 一级分类页面
             return "admin/category/add";
-        } else if (type == 2) {// 二级分类页面
+        } else if (type == 2) {
+            // 二级分类页面
             return "admin/categorysec/add";
         } else {
             return "";
@@ -58,11 +56,6 @@ public class AdminClassificationController {
 
     /**
      * 打开编辑页面
-     *
-     * @param id
-     * @param type
-     * @param map
-     * @return
      */
     @RequestMapping("/toEdit.html")
     public String toEdit(int id, int type, Map<String, Object> map) {

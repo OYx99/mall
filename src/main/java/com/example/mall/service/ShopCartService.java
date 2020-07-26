@@ -14,21 +14,21 @@ public interface ShopCartService {
 
     /**
      * 加购物车
-     * @param
      */
     void addCart(int productId, HttpServletRequest request) throws Exception;
 
     /**
      * 移除
-     * @param productId
-     * @param request
      */
     void remove(int productId, HttpServletRequest request) throws Exception;
 
     /**
      * 查看购物车
-     * @param request
-     * @return
      */
     List<OrderItem> listCart(HttpServletRequest request) throws Exception;
+
+    /**
+     * 清空购物车
+     */
+    void clear(HttpServletRequest request) throws Exception;
 }

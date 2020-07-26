@@ -8,6 +8,7 @@ import org.springframework.data.jpa.repository.JpaRepository;
 import java.util.List;
 
 public interface ClassificationDao extends JpaRepository<Classification, Integer> {
+
     List<Classification> findByType(int type);
 
     Page<Classification> findByType(int type, Pageable pageable);

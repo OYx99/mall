@@ -1,4 +1,4 @@
-package com.example.mall.web.admin;
+package com.example.mall.controller.admin;
 
 import com.example.mall.entity.AdminUser;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -19,8 +19,6 @@ public class AdminController {
 
     /**
      * 访问首页
-     *
-     * @return
      */
     @RequestMapping("/toIndex.html")
     public String toIndex() {
@@ -29,8 +27,6 @@ public class AdminController {
 
     /**
      * 访问登录页面
-     *
-     * @return
      */
     @RequestMapping("/toLogin.html")
     public String toLogin() {
@@ -39,11 +35,7 @@ public class AdminController {
 
     /**
      * 登录请求
-     *
-     * @param username
-     * @param password
      */
-    //@ResponseBody
     @RequestMapping(method = RequestMethod.POST, value = "/login.do")
     public void login(String username, String password, HttpServletRequest request, HttpServletResponse response) throws IOException {
         AdminUser adminUser = adminUserService.checkLogin(request, username, password);
@@ -52,9 +44,6 @@ public class AdminController {
 
     /**
      * 退出登录
-     * @param request
-     * @param response
-     * @throws IOException
      */
     @RequestMapping("/logout.do")
     public void logout(HttpServletRequest request, HttpServletResponse response) throws IOException {

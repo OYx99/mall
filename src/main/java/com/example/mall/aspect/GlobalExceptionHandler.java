@@ -24,14 +24,7 @@ public class GlobalExceptionHandler implements Serializable{
     private static final long serialVersionUID = 1L;
     private static final Logger LOGGER = LoggerFactory.getLogger(GlobalExceptionHandler.class);
 
-    /**
-     * 默认的异常处理
-     *
-     * @param req
-     * @param e
-     * @return
-     * @throws Exception
-     */
+     //默认的异常处理
     @ExceptionHandler(value = Exception.class)
     @ResponseBody
     public ResultBean<String> defaultErrorHandler(HttpServletRequest req, Exception e) throws Exception {
@@ -52,14 +45,7 @@ public class GlobalExceptionHandler implements Serializable{
         req.getRequestDispatcher("/mall/user/error.html").forward(req, res);
     }
 
-    /**
-     * 处理validation异常
-     *
-     * @param req
-     * @param e
-     * @return
-     * @throws Exception
-     */
+     //处理validation异常
     @ExceptionHandler(value = ConstraintViolationException.class)
     @ResponseBody
     public ResultBean<String> validationExceptionHandler(HttpServletRequest req, ConstraintViolationException e) throws Exception {

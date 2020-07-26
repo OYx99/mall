@@ -1,4 +1,4 @@
-package com.example.mall.web.user;
+package com.example.mall.controller.user;
 
 import com.example.mall.entity.Order;
 import com.example.mall.entity.OrderItem;
@@ -22,8 +22,6 @@ public class OrderController {
 
     /**
      * 打开订单列表页面
-     *
-     * @return
      */
     @RequestMapping("/toList.html")
     public String toOrderList() {
@@ -32,9 +30,6 @@ public class OrderController {
 
     /**
      * 查询用户订单列表
-     *
-     * @param request
-     * @return
      */
     @RequestMapping("/list.do")
     @ResponseBody
@@ -45,9 +40,6 @@ public class OrderController {
 
     /**
      * 查询订单详情
-     *
-     * @param orderId
-     * @return
      */
     @RequestMapping("/getDetail.do")
     @ResponseBody
@@ -58,12 +50,6 @@ public class OrderController {
 
     /**
      * 提交订单
-     *
-     * @param name
-     * @param phone
-     * @param addr
-     * @param request
-     * @param response
      */
     @RequestMapping("/submit.do")
     public void submit(String name,
@@ -76,8 +62,6 @@ public class OrderController {
 
     /**
      * 支付方法
-     *
-     * @param orderId
      */
     @RequestMapping("pay.do")
     @ResponseBody
@@ -88,10 +72,6 @@ public class OrderController {
 
     /**
      * 确认收货
-     * @param orderId
-     * @param response
-     * @return
-     * @throws IOException
      */
     @RequestMapping("receive.do")
     @ResponseBody

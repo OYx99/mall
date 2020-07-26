@@ -2,12 +2,6 @@ package com.example.mall.entity.pojo;
 
 import java.io.Serializable;
 
-/**
- * 接口返回数据模型
- *
- * @author hfb
- * @date 2017/9/18
- */
 public class ResultBean<T> implements Serializable {
     private static final long serialVersionUID = -6248298306422072592L;
     /**

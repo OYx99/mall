@@ -18,8 +18,9 @@ public class FileUtil {
      * @throws Exception
      */
     public static String saveFile(MultipartFile file) throws Exception {
-        if (file == null || file.isEmpty())
+        if (file == null || file.isEmpty()) {
             return "";
+        }
         File target = new File("file");
         if (!target.isDirectory()) {
             target.mkdirs();

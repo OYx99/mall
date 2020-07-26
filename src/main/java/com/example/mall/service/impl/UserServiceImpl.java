@@ -48,9 +48,6 @@ public class UserServiceImpl implements UserService {
 
     /**
      * 根据用户名查询
-     *
-     * @param username
-     * @return
      */
     @Override
     public List<User> findByUsername(String username) {
@@ -59,10 +56,6 @@ public class UserServiceImpl implements UserService {
 
     /**
      * 检查登录
-     *
-     * @param username
-     * @param password
-     * @return
      */
     @Override
     public User checkLogin(String username, String password) {

@@ -2,496 +2,51 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5e0cd0f8-d68c-4eb8-be9b-fdfbcd0302fb" name="默认更改列表" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_3_2_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_annotation_3_2_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_boot_starter_3_2_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_core_3_2_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_extension_3_2_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_4_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_9.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_9_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_9_9.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_9_9.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_9_9.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_jsqlparser_jsqlparser_2_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_zaxxer_HikariCP_3_2_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_javax_activation_api_1_2_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_2_0_1_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_3_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_6_0_6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_9_16.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_9_16.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_11_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_11_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_24.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_24.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_24.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_11_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_attoparser_attoparser_2_0_5_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_17_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_3_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_2_23_4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_5_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_2_0_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_8.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_28.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_28.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_1_8_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_1_8_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_devtools_2_1_8_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_1_8_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_1_8_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_1_8_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_1_8_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_1_8_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_thymeleaf_2_1_8_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_1_8_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_1_8_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_1_8_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_1_8_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_1_9_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_1_9_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_1_9_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_1_9_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_1_9_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_9_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_1_9_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_1_9_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_1_9_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_1_9_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_1_9_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_extras_thymeleaf_extras_java8time_3_0_4_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_thymeleaf_3_0_11_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_thymeleaf_spring5_3_0_11_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_unbescape_unbescape_1_1_6_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_6_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_23.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__p6spy_p6spy_3_7_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book-shop.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/script/book_shop.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/book/bookshop/BookShopApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/book/bookshop/config/MybatisPlusConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/book/bookshop/config/WebMvcConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/book/bookshop/entity/Address.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/book/bookshop/entity/Book.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/book/bookshop/entity/Cart.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/book/bookshop/entity/CartVo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/book/bookshop/entity/Order.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/book/bookshop/entity/OrderItem.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/book/bookshop/entity/OrderQueryVo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/book/bookshop/entity/User.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/book/bookshop/entity/UserCartVo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/book/bookshop/entity/enums/Category.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/book/bookshop/entity/enums/Suit.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/book/bookshop/interceptor/PermissionInterceptor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/book/bookshop/mapper/AddressMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/book/bookshop/mapper/BookMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/book/bookshop/mapper/CartMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/book/bookshop/mapper/OrderItemMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/book/bookshop/mapper/OrderMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/book/bookshop/mapper/UserMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/book/bookshop/service/AddressService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/book/bookshop/service/BookService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/book/bookshop/service/CartService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/book/bookshop/service/OrderItemService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/book/bookshop/service/OrderService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/book/bookshop/service/UserService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/book/bookshop/utils/OrderUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/book/bookshop/web/AddressController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/book/bookshop/web/BookController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/book/bookshop/web/CartController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/book/bookshop/web/OrderController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/book/bookshop/web/UserController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/mapper/OrderMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/spy.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/css/animate.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/css/animate.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/css/bootstrap-datetimepicker.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/css/cart.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/css/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/css/order_list.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/dist/css/bootstrap-theme.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/dist/css/bootstrap-theme.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/dist/css/bootstrap-theme.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/dist/css/bootstrap.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/dist/css/bootstrap.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/dist/css/bootstrap.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/dist/fonts/glyphicons-halflings-regular.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/dist/fonts/glyphicons-halflings-regular.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/dist/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/dist/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/dist/js/bootstrap.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/dist/js/bootstrap.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/dist/js/distpicker.data.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/dist/js/distpicker.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/dist/js/jquery.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/dist/js/npm.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/100dongjindarenweifaxian.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/3.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/NO SECRETS.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/advert1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/advert2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/advert3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/beiwei78.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/biezouwanyihaoxiaone.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/book10_nav.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/book1_nav.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/book2_nav.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/book3_nav.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/book4_nav.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/book5_nav.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/book6_nav.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/book7_nav.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/book8_nav.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/book9_nav.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/bullet1.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/cikehuakai.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/dongjian.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/emotions/1.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/emotions/10.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/emotions/11.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/emotions/12.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/emotions/13.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/emotions/14.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/emotions/15.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/emotions/16.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/emotions/17.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/emotions/18.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/emotions/19.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/emotions/2.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/emotions/20.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/emotions/21.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/emotions/22.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/emotions/23.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/emotions/24.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/emotions/25.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/emotions/26.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/emotions/27.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/emotions/28.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/emotions/29.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/emotions/3.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/emotions/30.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/emotions/31.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/emotions/32.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/emotions/33.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/emotions/34.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/emotions/35.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/emotions/36.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/emotions/37.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/emotions/38.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/emotions/39.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/emotions/4.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/emotions/40.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/emotions/41.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/emotions/42.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/emotions/43.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/emotions/44.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/emotions/45.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/emotions/46.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/emotions/47.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/emotions/48.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/emotions/49.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/emotions/5.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/emotions/50.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/emotions/51.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/emotions/52.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/emotions/53.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/emotions/54.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/emotions/55.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/emotions/56.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/emotions/57.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/emotions/58.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/emotions/59.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/emotions/6.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/emotions/60.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/emotions/61.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/emotions/62.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/emotions/63.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/emotions/64.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/emotions/65.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/emotions/66.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/emotions/67.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/emotions/68.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/emotions/69.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/emotions/7.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/emotions/70.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/emotions/71.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/emotions/72.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/emotions/73.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/emotions/74.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/emotions/75.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/emotions/8.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/emotions/9.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/feizhouguilai.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/ganguanpinpai.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/genlejiaxuexinggesecai.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/guwu04.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/jindumanbu.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/lapulasidemonv.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/maichanpinjiushimaiziji.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/meilianchuzhuxi.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/nanhaidemaoxianshu.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/ouzhou.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/prod1.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/prod2.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/qingshanggaojiushishuohuarangrenshufu.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/taikong.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/tenxunchuan.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/thumb1.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/thumb2.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/thumb3.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/woyushijiezhichayigeni.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/wozhixiangyigerenzainixinli.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/xiaodaolifencunzhijian.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/xiaoshouxinlizhan.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/xiegeinianqinrende1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/xizang.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/yidali.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/yuannideqingchunbufumengxiang.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/yunyinbiji.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/js/bootstrap-datetimepicker.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/js/bootstrap-datetimepicker.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/js/bootstrap-datetimepicker.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/js/carousel.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/js/cart.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/js/confirm_order.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/js/details.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/js/login_reg.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/js/moment.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/js/wow.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/bookData.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/booksListData.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/books_list.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/cart.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/common/bookModal.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/common/carousel.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/common/footer.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/common/header.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/confirm_order.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/details.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/orderData.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/order_list.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/book/bookshop/BookShopApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/book/bookshop/BookShopApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/book/bookshop/config/MybatisPlusConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/book/bookshop/config/WebMvcConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/book/bookshop/entity/Address.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/book/bookshop/entity/Book.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/book/bookshop/entity/Cart.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/book/bookshop/entity/CartVo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/book/bookshop/entity/Order.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/book/bookshop/entity/OrderItem.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/book/bookshop/entity/OrderQueryVo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/book/bookshop/entity/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/book/bookshop/entity/UserCartVo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/book/bookshop/entity/enums/Category.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/book/bookshop/entity/enums/Suit.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/book/bookshop/interceptor/PermissionInterceptor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/book/bookshop/mapper/AddressMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/book/bookshop/mapper/BookMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/book/bookshop/mapper/CartMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/book/bookshop/mapper/OrderItemMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/book/bookshop/mapper/OrderMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/book/bookshop/mapper/UserMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/book/bookshop/service/AddressService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/book/bookshop/service/BookService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/book/bookshop/service/CartService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/book/bookshop/service/OrderItemService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/book/bookshop/service/OrderService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/book/bookshop/service/UserService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/book/bookshop/utils/OrderUtils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/book/bookshop/web/AddressController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/book/bookshop/web/BookController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/book/bookshop/web/CartController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/book/bookshop/web/OrderController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/book/bookshop/web/UserController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/mapper/OrderMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/spy.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/css/animate.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/css/animate.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/css/bootstrap-datetimepicker.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/css/cart.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/css/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/css/order_list.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/dist/css/bootstrap-theme.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/dist/css/bootstrap-theme.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/dist/css/bootstrap-theme.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/dist/css/bootstrap.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/dist/css/bootstrap.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/dist/css/bootstrap.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/dist/fonts/glyphicons-halflings-regular.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/dist/fonts/glyphicons-halflings-regular.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/dist/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/dist/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/dist/js/bootstrap.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/dist/js/bootstrap.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/dist/js/distpicker.data.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/dist/js/distpicker.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/dist/js/jquery.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/dist/js/npm.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/images/100dongjindarenweifaxian.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/images/3.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/images/NO SECRETS.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/images/advert1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/images/advert2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/images/advert3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/images/beiwei78.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/images/biezouwanyihaoxiaone.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/images/book10_nav.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/images/book1_nav.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/images/book2_nav.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/images/book3_nav.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/images/book4_nav.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/images/book5_nav.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/images/book6_nav.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/images/book7_nav.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/images/book8_nav.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/images/book9_nav.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/images/bullet1.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/images/cikehuakai.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/images/dongjian.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/images/emotions/1.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/images/emotions/10.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/images/emotions/11.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/images/emotions/12.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/images/emotions/13.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/images/emotions/14.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/images/emotions/15.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/images/emotions/16.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/images/emotions/17.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/images/emotions/18.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/images/emotions/19.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/images/emotions/2.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/images/emotions/20.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/images/emotions/21.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/images/emotions/22.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/images/emotions/23.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/images/emotions/24.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/images/emotions/25.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/images/emotions/26.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/images/emotions/27.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/images/emotions/28.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/images/emotions/29.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/images/emotions/3.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/images/emotions/30.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/images/emotions/31.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/images/emotions/32.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/images/emotions/33.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/images/emotions/34.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/images/emotions/35.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/images/emotions/36.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/images/emotions/37.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/images/emotions/38.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/images/emotions/39.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/images/emotions/4.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/images/emotions/40.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/images/emotions/41.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/images/emotions/42.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/images/emotions/43.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/images/emotions/44.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/images/emotions/45.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/images/emotions/46.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/images/emotions/47.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/images/emotions/48.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/images/emotions/49.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/images/emotions/5.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/images/emotions/50.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/images/emotions/51.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/images/emotions/52.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/images/emotions/53.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/images/emotions/54.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/images/emotions/55.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/images/emotions/56.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/images/emotions/57.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/images/emotions/58.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/images/emotions/59.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/images/emotions/6.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/images/emotions/60.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/images/emotions/61.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/images/emotions/62.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/images/emotions/63.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/images/emotions/64.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/images/emotions/65.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/images/emotions/66.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/images/emotions/67.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/images/emotions/68.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/images/emotions/69.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/images/emotions/7.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/images/emotions/70.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/images/emotions/71.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/images/emotions/72.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/images/emotions/73.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/images/emotions/74.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/images/emotions/75.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/images/emotions/8.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/images/emotions/9.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/images/feizhouguilai.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/images/ganguanpinpai.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/images/genlejiaxuexinggesecai.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/images/guwu04.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/images/jindumanbu.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/images/lapulasidemonv.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/images/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/images/maichanpinjiushimaiziji.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/images/meilianchuzhuxi.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/images/nanhaidemaoxianshu.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/images/ouzhou.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/images/prod1.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/images/prod2.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/images/qingshanggaojiushishuohuarangrenshufu.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/images/taikong.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/images/tenxunchuan.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/images/thumb1.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/images/thumb2.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/images/thumb3.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/images/woyushijiezhichayigeni.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/images/wozhixiangyigerenzainixinli.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/images/xiaodaolifencunzhijian.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/images/xiaoshouxinlizhan.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/images/xiegeinianqinrende1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/images/xizang.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/images/yidali.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/images/yuannideqingchunbufumengxiang.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/images/yunyinbiji.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/js/bootstrap-datetimepicker.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/js/bootstrap-datetimepicker.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/js/bootstrap-datetimepicker.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/js/carousel.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/js/cart.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/js/confirm_order.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/js/details.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/js/login_reg.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/js/moment.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/js/wow.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/templates/bookData.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/templates/booksListData.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/templates/books_list.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/templates/cart.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/templates/common/bookModal.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/templates/common/carousel.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/templates/common/footer.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/templates/common/header.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/templates/confirm_order.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/templates/details.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/templates/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/templates/orderData.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/templates/order_list.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/book/bookshop/BookShopApplicationTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/mall/aspect/GlobalExceptionHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/mall/aspect/GlobalExceptionHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/mall/aspect/WebLogAspect.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/mall/dao/ClassificationDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/mall/dao/ClassificationDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/mall/dao/OrderDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/mall/dao/OrderDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/mall/dao/OrderItemDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/mall/dao/OrderItemDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/mall/dao/ProductDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/mall/dao/ProductDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/mall/dao/UserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/mall/dao/UserDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/mall/entity/pojo/ResultBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/mall/entity/pojo/ResultBean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/mall/filter/AuthorizationFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/mall/filter/AuthorizationFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/mall/service/AdminUserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/mall/service/AdminUserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/mall/service/ClassificationService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/mall/service/ClassificationService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/mall/service/OrderService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/mall/service/OrderService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/mall/service/ProductService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/mall/service/ProductService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/mall/service/ShopCartService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/mall/service/ShopCartService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/mall/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/mall/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/mall/service/impl/ClassificationServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/mall/service/impl/ClassificationServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/mall/service/impl/OrderServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/mall/service/impl/OrderServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/mall/service/impl/ProductServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/mall/service/impl/ProductServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/mall/service/impl/ShopCartServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/mall/service/impl/ShopCartServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/mall/service/impl/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/mall/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/mall/utils/DesUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/mall/utils/DesUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/mall/utils/FileUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/mall/utils/FileUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/mall/utils/Helper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/mall/utils/Helper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/mall/web/admin/AdminClassificationController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/mall/controller/admin/AdminClassificationController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/mall/web/admin/AdminController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/mall/controller/admin/AdminController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/mall/web/admin/AdminOrderController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/mall/controller/admin/AdminOrderController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/mall/web/admin/AdminProductController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/mall/controller/admin/AdminProductController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/mall/web/admin/AdminUserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/mall/controller/admin/AdminUserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/mall/web/user/ClassificationController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/mall/controller/user/ClassificationController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/mall/web/user/IndexController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/mall/controller/user/IndexController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/mall/web/user/OrderController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/mall/controller/user/OrderController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/mall/web/user/ProductController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/mall/controller/user/ProductController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/mall/web/user/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/mall/controller/user/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/error.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/error.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/mall/common.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/mall/common.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/mall/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/mall/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/mall/order/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/mall/order/list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/mall/product/cart.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/mall/product/cart.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/mall/product/category.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/mall/product/category.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/mall/product/info.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/mall/product/info.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/mall/user/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/mall/user/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/mall/user/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/mall/user/register.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -530,8 +85,13 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../mall" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/static/image" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\IDEA_JAVA_workspace\mall\src\main\resources\static\image" />
+    </key>
   </component>
   <component name="RunManager" selected="Spring Boot.MallApplication (1)">
     <configuration name="MallApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
@@ -573,6 +133,9 @@
       <workItem from="1595654329134" duration="9002000" />
       <workItem from="1595670857280" duration="172000" />
       <workItem from="1595671206793" duration="560000" />
+      <workItem from="1595671875983" duration="297000" />
+      <workItem from="1595675130501" duration="8617000" />
+      <workItem from="1595732700723" duration="8722000" />
     </task>
     <servers />
   </component>
@@ -580,45 +143,53 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="765" y="228" key="#com.intellij.ide.util.MemberChooser" timestamp="1595749135961">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="228" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1595749135961" />
     <state x="740" y="277" key="FileChooserDialogImpl" timestamp="1595671234336">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="277" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1595671234336" />
-    <state width="1877" height="279" key="GridCell.Tab.0.bottom" timestamp="1595671770828">
+    <state width="1877" height="279" key="GridCell.Tab.0.bottom" timestamp="1595751740769">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1595671770828" />
-    <state width="1877" height="279" key="GridCell.Tab.0.center" timestamp="1595671770828">
+    <state width="1877" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1595751740769" />
+    <state width="1877" height="279" key="GridCell.Tab.0.center" timestamp="1595751740769">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="279" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1595671770828" />
-    <state width="1877" height="279" key="GridCell.Tab.0.left" timestamp="1595671770828">
+    <state width="1877" height="279" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1595751740769" />
+    <state width="1877" height="279" key="GridCell.Tab.0.left" timestamp="1595751740769">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="279" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1595671770828" />
-    <state width="1877" height="279" key="GridCell.Tab.0.right" timestamp="1595671770828">
+    <state width="1877" height="279" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1595751740769" />
+    <state width="1877" height="279" key="GridCell.Tab.0.right" timestamp="1595751740769">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1595671770828" />
-    <state width="1877" height="279" key="GridCell.Tab.1.bottom" timestamp="1595671770828">
+    <state width="1877" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1595751740769" />
+    <state width="1877" height="279" key="GridCell.Tab.1.bottom" timestamp="1595751740770">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="279" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1595671770828" />
-    <state width="1877" height="279" key="GridCell.Tab.1.center" timestamp="1595671770828">
+    <state width="1877" height="279" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1595751740770" />
+    <state width="1877" height="279" key="GridCell.Tab.1.center" timestamp="1595751740770">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="279" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1595671770828" />
-    <state width="1877" height="279" key="GridCell.Tab.1.left" timestamp="1595671770828">
+    <state width="1877" height="279" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1595751740770" />
+    <state width="1877" height="279" key="GridCell.Tab.1.left" timestamp="1595751740770">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="279" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1595671770828" />
-    <state width="1877" height="279" key="GridCell.Tab.1.right" timestamp="1595671770828">
+    <state width="1877" height="279" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1595751740770" />
+    <state width="1877" height="279" key="GridCell.Tab.1.right" timestamp="1595751740770">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="279" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1595671770828" />
+    <state width="1877" height="279" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1595751740770" />
     <state x="189" y="200" key="new project wizard" timestamp="1595664305458">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="189" y="200" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1595664305458" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1595747921332">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1595747921332" />
   </component>
 </project>

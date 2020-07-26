@@ -1,15 +1,12 @@
-package com.example.mall.web.user;
+package com.example.mall.controller.user;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
-
-import javax.servlet.http.HttpServletRequest;
 
 @Controller
 public class IndexController {
     /**
      * 打开首页
-     * @return
      */
     @RequestMapping("/index.html")
     public String toIndex() {
@@ -18,7 +15,6 @@ public class IndexController {
 
     /**
      * 访问根目录转发到首页
-     * @return
      */
     @RequestMapping("/")
     public String index(){

@@ -1,4 +1,4 @@
-package com.example.mall.web.admin;
+package com.example.mall.controller.admin;
 
 import com.example.mall.entity.Classification;
 import com.example.mall.entity.Product;

@@ -28,9 +28,6 @@ public class ClassificationServiceImpl implements ClassificationService {
 
     /**
      * 按分类查询所有
-     *
-     * @param pageable
-     * @return
      */
     @Override
     public Page<Classification> findAll(int type, Pageable pageable) {
@@ -60,9 +57,6 @@ public class ClassificationServiceImpl implements ClassificationService {
 
     /**
      * 通过一级分类id查找它所有的二级分类
-     *
-     * @param cid
-     * @return
      */
     @Override
     public List<Classification> findByParentId(int cid) {

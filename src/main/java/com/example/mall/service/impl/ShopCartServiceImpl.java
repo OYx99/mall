@@ -24,15 +24,13 @@ public class ShopCartServiceImpl implements ShopCartService {
     /**
      * 加购物车
      * 将商品id保存到Session中List<Integer>中
-     *
-     * @param productId
-     * @param request
      */
     @Override
     public void addCart(int productId, HttpServletRequest request) throws Exception {
         User loginUser = (User) request.getSession().getAttribute("user");
-        if (loginUser == null)
+        if (loginUser == null) {
             throw new Exception("未登录！请重新登录");
+        }
         List<Integer> productIds = (List<Integer>) request.getSession().getAttribute(NAME_PREFIX + loginUser.getId());
         if (productIds == null) {
             productIds = new ArrayList<>();
@@ -45,15 +43,13 @@ public class ShopCartServiceImpl implements ShopCartService {
      * 移除
      *
      * 移除session List中对应的商品Id
-     *
-     * @param productId
-     * @param request
      */
     @Override
     public void remove(int productId, HttpServletRequest request) throws Exception {
         User loginUser = (User) request.getSession().getAttribute("user");
-        if (loginUser == null)
+        if (loginUser == null) {
             throw new Exception("未登录！请重新登录");
+        }
         List<Integer> productIds = (List<Integer>) request.getSession().getAttribute(NAME_PREFIX + loginUser.getId());
         Iterator<Integer> iterator = productIds.iterator();
         while (iterator.hasNext()) {
@@ -67,15 +63,13 @@ public class ShopCartServiceImpl implements ShopCartService {
      * 查看购物车
      *
      * 查询出session的List中所有的商品Id,并封装成List<OrderItem>返回
-     *
-     * @param request
-     * @return
      */
     @Override
     public List<OrderItem> listCart(HttpServletRequest request) throws Exception {
         User loginUser = (User) request.getSession().getAttribute("user");
-        if (loginUser == null)
+        if (loginUser == null) {
             throw new Exception("未登录！请重新登录");
+        }
         List<Integer> productIds = (List<Integer>) request.getSession().getAttribute(NAME_PREFIX + loginUser.getId());
         // key: productId value:OrderItem
         Map<Integer, OrderItem> productMap = new HashMap<>();
@@ -103,5 +97,17 @@ public class ShopCartServiceImpl implements ShopCartService {
         }
         List<OrderItem> orderItems = new ArrayList<>(productMap.values());
         return orderItems;
+    }
+
+    /**
+     *提交订单时清空购物车
+     */
+    @Override
+    public void clear(HttpServletRequest request) throws Exception {
+        User loginUser = (User) request.getSession().getAttribute("user");
+        if (loginUser == null) {
+            throw new Exception("未登录！请重新登录");
+        }
+        request.getSession().removeAttribute(NAME_PREFIX + loginUser.getId());
     }
 }

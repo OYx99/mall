@@ -1,4 +1,4 @@
-package com.example.mall.web.admin;
+package com.example.mall.controller.admin;
 
 import com.example.mall.entity.User;
 import com.example.mall.entity.pojo.ResultBean;
@@ -20,7 +20,6 @@ public class AdminUserController {
 
     /**
      * 打开用户列表页面
-     * @return
      */
     @RequestMapping("/toList.html")
     public String toList() {
@@ -29,9 +28,6 @@ public class AdminUserController {
 
     /**
      * 打开编辑页面
-     * @param id
-     * @param map
-     * @return
      */
     @RequestMapping("/toEdit.html")
     public String toEdit(int id, Map<String, Object> map) {
@@ -42,9 +38,6 @@ public class AdminUserController {
 
     /**
      * 获取所有用户列表
-     *
-     * @param pageindex
-     * @return
      */
     @ResponseBody
     @RequestMapping("/list.do")

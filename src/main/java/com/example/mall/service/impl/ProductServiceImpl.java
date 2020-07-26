@@ -32,8 +32,6 @@ public class ProductServiceImpl implements ProductService {
 
     /**
      * 查找热门商品
-     *
-     * @return
      */
     @Override
     public List<Product> findHotProduct() {
@@ -42,9 +40,6 @@ public class ProductServiceImpl implements ProductService {
 
     /**
      * 查找最新商品
-     *
-     * @param pageable
-     * @return
      */
     @Override
     public List<Product> findNewProduct(Pageable pageable) {
@@ -56,10 +51,6 @@ public class ProductServiceImpl implements ProductService {
 
     /**
      * 根据一级分类查找商品
-     *
-     * @param cid
-     * @param pageable
-     * @return
      */
     @Override
     public List<Product> findByCid(int cid, Pageable pageable) {
@@ -74,10 +65,6 @@ public class ProductServiceImpl implements ProductService {
 
     /**
      * 根据二级分类查找商品
-     *
-     * @param csid
-     * @param pageable
-     * @return
      */
     @Override
     public List<Product> findByCsid(int csid, Pageable pageable) {

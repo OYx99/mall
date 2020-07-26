@@ -1,4 +1,4 @@
-package com.example.mall.web.user;
+package com.example.mall.controller.user;
 
 import com.example.mall.entity.Classification;
 import com.example.mall.entity.OrderItem;
@@ -30,9 +30,6 @@ public class ProductController {
 
     /**
      * 获取商品信息
-     *
-     * @param id
-     * @return
      */
     @RequestMapping("/get.do")
     public ResultBean<Product> getProduct(int id) {
@@ -42,10 +39,6 @@ public class ProductController {
 
     /**
      * 打开商品详情页面
-     *
-     * @param id
-     * @param map
-     * @return
      */
     @RequestMapping("/get.html")
     public String toProductPage(int id, Map<String, Object> map) {
@@ -56,8 +49,6 @@ public class ProductController {
 
     /**
      * 查找热门商品
-     *
-     * @return
      */
     @ResponseBody
     @RequestMapping("/hot.do")
@@ -68,10 +59,6 @@ public class ProductController {
 
     /**
      * 查找最新商品
-     *
-     * @param pageNo
-     * @param pageSize
-     * @return
      */
     @ResponseBody
     @RequestMapping("/new.do")
@@ -83,8 +70,6 @@ public class ProductController {
 
     /**
      * 打开分类查看商品页面
-     *
-     * @return
      */
     @RequestMapping("/category.html")
     public String toCatePage(int cid, Map<String, Object> map) {
@@ -100,11 +85,6 @@ public class ProductController {
 
     /**
      * 按一级分类查找商品
-     *
-     * @param cid
-     * @param pageNo
-     * @param pageSize
-     * @return
      */
     @ResponseBody
     @RequestMapping("/category.do")
@@ -116,11 +96,6 @@ public class ProductController {
 
     /**
      * 按二级分类查找商品
-     *
-     * @param csId
-     * @param pageNo
-     * @param pageSize
-     * @return
      */
     @ResponseBody
     @RequestMapping("/categorySec.do")
@@ -132,8 +107,6 @@ public class ProductController {
 
     /**
      * 根据一级分类查询它所有的二级分类
-     * @param cid
-     * @return
      */
     @ResponseBody
     @RequestMapping("/getCategorySec.do")
@@ -144,10 +117,6 @@ public class ProductController {
 
     /**
      * 加购物车
-     *
-     * @param productId
-     * @param request
-     * @return
      */
     @ResponseBody
     @RequestMapping("/addCart.do")
@@ -158,10 +127,6 @@ public class ProductController {
 
     /**
      * 移除购物车
-     *
-     * @param productId
-     * @param request
-     * @return
      */
     @ResponseBody
     @RequestMapping("/delCart.do")
@@ -172,8 +137,6 @@ public class ProductController {
 
     /**
      * 查看购物车商品
-     * @param request
-     * @return
      */
     @ResponseBody
     @RequestMapping("/listCart.do")

@@ -1,4 +1,4 @@
-package com.example.mall.web.user;
+package com.example.mall.controller.user;
 
 import com.example.mall.entity.User;
 import com.example.mall.entity.pojo.ResultBean;
@@ -22,8 +22,6 @@ public class UserController {
 
     /**
      * 打开注册页面
-     *
-     * @return
      */
     @RequestMapping("/toRegister.html")
     public String toRegister() {
@@ -32,8 +30,6 @@ public class UserController {
 
     /**
      * 打开登录页面
-     *
-     * @return
      */
     @RequestMapping("/toLogin.html")
     public String toLogin() {
@@ -42,9 +38,6 @@ public class UserController {
 
     /**
      * 登录
-     *
-     * @param username
-     * @param password
      */
     @RequestMapping("/login.do")
     public void login(String username,
@@ -96,8 +89,6 @@ public class UserController {
 
     /**
      * 验证用户名是否唯一
-     * @param username
-     * @return
      */
     @ResponseBody
     @RequestMapping("/checkUsername.do")
@@ -111,10 +102,6 @@ public class UserController {
 
     /**
      * 如发生错误 转发到这页面
-     *
-     * @param response
-     * @param request
-     * @return
      */
     @RequestMapping("/error.html")
     public String error(HttpServletResponse response, HttpServletRequest request) {

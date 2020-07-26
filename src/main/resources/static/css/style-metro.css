@@ -79,6 +79,7 @@ select:focus {
   color: white;  
   text-shadow: none;	
   background-color: #d84a38;
+  border-radius: 25px;
 }
 .btn.red:hover, 
 .btn.red:focus, 
@@ -117,8 +118,9 @@ select:focus {
 /*  Green */
 .btn.green {
   color: white;
-  text-shadow: none;	 
+  text-shadow: none;
   background-color: #35aa47;
+  border-radius: 25px;
 }
 .btn.green:hover, 
 .btn.green:focus, 

@@ -36,11 +36,12 @@ Reset and overrides
 ***/
 /* general body settings */
 body { 
-  color: #000; 
+  color: #000;
   font-family: 'Microsoft Yahei';
   padding: 0px !important;
   margin: 0px !important;
   direction: ltr;
+  background-color: #e0eaea;
 }
 
 /***
@@ -5308,7 +5309,7 @@ Datatables Plugin(in v1.3)
 }
 
 #mainFrame{
-	background: #FFFFFF;
+    background-color: #e0eaea;
 	width: 100%;
 	height: 100%;
 }

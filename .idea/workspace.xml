@@ -1,134 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fff6b777-df01-48a9-9bf9-81e35715cd1f" name="默认更改列表" comment="">
+    <list default="true" id="95b9e454-6090-4e47-a864-f10df195fb96" name="默认更改列表" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-<<<<<<< HEAD
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/mall/service/impl/ShopCartServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/mall/service/impl/ShopCartServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-=======
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/mall/MallApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/mall/MallApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/css/DT_bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/css/DT_bootstrap.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/css/about-us.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/css/about-us.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/css/animate.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/css/animate.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/css/blog.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/css/blog.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/css/blue.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/css/blue.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/css/bootstrap-fileupload.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/css/bootstrap-fileupload.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/css/bootstrap-modal.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/css/bootstrap-modal.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/css/bootstrap-responsive.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/css/bootstrap-responsive.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/css/bootstrap-tag.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/css/bootstrap-tag.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/css/bootstrap-toggle-buttons.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/css/bootstrap-toggle-buttons.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/css/bootstrap-tree.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/css/bootstrap-tree.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/css/bootstrap-wysihtml5.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/css/bootstrap-wysihtml5.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/css/bootstrap.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/css/brown.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/css/brown.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/css/chosen.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/css/chosen.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/css/clockface.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/css/clockface.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/css/colorpicker.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/css/colorpicker.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/css/coming-soon.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/css/coming-soon.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/static/css/common.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/css/common.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/css/datepicker.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/css/datepicker.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/css/daterangepicker.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/css/daterangepicker.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/css/datetimepicker.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/css/datetimepicker.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/css/default.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/css/default.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/css/dropzone.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/css/dropzone.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/css/email.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/css/email.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/css/error.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/css/error.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/css/font-awesome.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/css/font-awesome.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/css/font-awesome.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/css/font-awesome.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/css/fullcalendar.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/css/fullcalendar.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/css/glyphicons.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/css/glyphicons.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/css/grey.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/css/grey.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/css/halflings.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/css/halflings.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/css/inbox.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/css/inbox.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/css/invoice.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/css/invoice.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/css/jquery.easy-pie-chart.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/css/jquery.easy-pie-chart.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/css/jquery.fancybox.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/css/jquery.fancybox.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/css/jquery.fileupload-ui.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/css/jquery.fileupload-ui.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/css/jquery.gritter.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/css/jquery.gritter.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/css/jquery.nestable.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/css/jquery.nestable.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/css/jquery.tagsinput.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/css/jquery.tagsinput.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/css/jqvmap.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/css/jqvmap.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/css/light.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/css/light.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/css/lock.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/css/lock.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/css/login-soft.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/css/login-soft.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/css/login.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/css/login.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/css/multi-select-metro.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/css/multi-select-metro.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/css/news.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/css/news.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/css/pagination.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/css/pagination.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/css/pricing-tables.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/css/pricing-tables.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/css/print.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/css/print.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/css/profile.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/css/profile.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/css/promo.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/css/promo.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/css/purple.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/css/purple.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/css/search.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/css/search.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/css/select2_metro.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/css/select2_metro.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/css/style-metro.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/css/style-metro.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/css/style-non-responsive.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/css/style-non-responsive.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/css/style-responsive.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/css/style-responsive.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/css/timeline.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/css/timeline.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/css/timepicker.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/css/timepicker.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/css/uniform.default.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/css/uniform.default.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/image/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/image/logo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/layui/css/layui.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/layui/css/layui.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/layui/css/layui.mobile.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/layui/css/layui.mobile.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/layui/css/modules/code.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/layui/css/modules/code.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/layui/css/modules/laydate/default/laydate.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/layui/css/modules/laydate/default/laydate.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/layui/css/modules/layer/default/layer.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/layui/css/modules/layer/default/layer.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/layui/font/iconfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/layui/font/iconfont.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/layui/jquery-3.2.1.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/layui/jquery-3.2.1.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/layui/lay/modules/carousel.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/layui/lay/modules/carousel.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/layui/lay/modules/code.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/layui/lay/modules/code.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/layui/lay/modules/element.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/layui/lay/modules/element.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/layui/lay/modules/flow.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/layui/lay/modules/flow.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/layui/lay/modules/form.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/layui/lay/modules/form.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/layui/lay/modules/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/layui/lay/modules/jquery.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/layui/lay/modules/laydate.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/layui/lay/modules/laydate.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/layui/lay/modules/layedit.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/layui/lay/modules/layedit.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/layui/lay/modules/layer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/layui/lay/modules/layer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/layui/lay/modules/laypage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/layui/lay/modules/laypage.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/layui/lay/modules/laytpl.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/layui/lay/modules/laytpl.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/layui/lay/modules/mobile.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/layui/lay/modules/mobile.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/layui/lay/modules/table.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/layui/lay/modules/table.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/layui/lay/modules/tree.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/layui/lay/modules/tree.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/layui/lay/modules/upload.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/layui/lay/modules/upload.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/layui/lay/modules/util.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/layui/lay/modules/util.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/layui/layui.all.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/layui/layui.all.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/layui/layui.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/layui/layui.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/admin/category/add.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/admin/category/add.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/admin/category/edit.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/admin/category/edit.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/admin/category/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/admin/category/list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/admin/categorysec/add.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/admin/categorysec/add.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/admin/categorysec/edit.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/admin/categorysec/edit.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/admin/categorysec/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/admin/categorysec/list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/admin/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/admin/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/image/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/image/logo1.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/templates/admin/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/admin/login.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/admin/order/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/admin/order/list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/admin/product/add.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/admin/product/add.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/admin/product/edit.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/admin/product/edit.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/admin/product/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/admin/product/list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/admin/user/edit.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/admin/user/edit.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/admin/user/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/admin/user/list.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/templates/error.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/error.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/mall/common.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/mall/common.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/mall/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/mall/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/mall/order/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/mall/order/list.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/templates/mall/product/cart.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/mall/product/cart.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/mall/product/category.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/mall/product/category.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/templates/mall/product/info.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/mall/product/info.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/mall/user/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/mall/user/login.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/mall/user/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/mall/user/register.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/css/animate.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/css/animate.css" afterDir="false" />
->>>>>>> 281f7641f9e19a31fbdc6225fe415dc05e273863
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -138,19 +23,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="MavenImportPreferences">
-    <option name="generalSettings">
-      <MavenGeneralSettings>
-        <option name="localRepository" value="G:\repositories\maven" />
-        <option name="mavenHome" value="$PROJECT_DIR$/../../../apache-maven-3.6.3" />
-        <option name="userSettingsFile" value="G:\apache-maven-3.6.3\conf\settings.xml" />
-      </MavenGeneralSettings>
-    </option>
-  </component>
-  <component name="ProjectId" id="1fDbXxPFoRxs7OO5vBS20MONzZt" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="1fDtP12nSqwXMS2SJ7zowampfmF" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
@@ -160,54 +36,20 @@
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RequestMappingsPanelWidth2" value="75" />
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/static/image" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\IDEA_JAVA_workspace\mall\src\main\resources\static\image" />
+    </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <module />
-      <method />
-    </configuration>
-    <configuration default="true" type="Application" factoryName="Application">
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="JUnit" factoryName="JUnit">
-      <option name="TEST_OBJECT" value="class" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="MallApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="mall" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.mall.MallApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="TestNG">
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
-      <module name="" />
-      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
-      <option name="PROGRAM_PARAMETERS" />
-      <predefined_log_file enabled="true" id="idea.log" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -218,110 +60,54 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="fff6b777-df01-48a9-9bf9-81e35715cd1f" name="默认更改列表" comment="" />
-      <created>1595755653248</created>
+      <changelist id="95b9e454-6090-4e47-a864-f10df195fb96" name="默认更改列表" comment="" />
+      <created>1595764463042</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-<<<<<<< HEAD
-      <updated>1595654324436</updated>
-      <workItem from="1595654329134" duration="9002000" />
-      <workItem from="1595670857280" duration="172000" />
-      <workItem from="1595671206793" duration="560000" />
-      <workItem from="1595671875983" duration="297000" />
-      <workItem from="1595675130501" duration="8617000" />
-      <workItem from="1595732700723" duration="17099000" />
-=======
-      <updated>1595755653248</updated>
-      <workItem from="1595755660150" duration="3172000" />
-      <workItem from="1595762264893" duration="441000" />
->>>>>>> 281f7641f9e19a31fbdc6225fe415dc05e273863
+      <updated>1595764463042</updated>
+      <workItem from="1595764465124" duration="8011000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-<<<<<<< HEAD
-    <state x="765" y="228" key="#com.intellij.ide.util.MemberChooser" timestamp="1595749135961">
+    <state x="811" y="411" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1595764508544">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="765" y="228" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1595749135961" />
-    <state x="740" y="277" key="FileChooserDialogImpl" timestamp="1595671234336">
+    <state x="811" y="411" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1595764508544" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1595779598468">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="277" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1595671234336" />
-    <state width="1877" height="279" key="GridCell.Tab.0.bottom" timestamp="1595759213087">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1595779598468" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1595779598468">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1595759213087" />
-    <state width="1877" height="279" key="GridCell.Tab.0.center" timestamp="1595759213087">
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1595779598468" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1595779598468">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="279" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1595759213087" />
-    <state width="1877" height="279" key="GridCell.Tab.0.left" timestamp="1595759213087">
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1595779598468" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1595779598468">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="279" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1595759213087" />
-    <state width="1877" height="279" key="GridCell.Tab.0.right" timestamp="1595759213087">
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1595779598468" />
+    <state width="1877" height="282" key="GridCell.Tab.1.bottom" timestamp="1595779598468">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1595759213087" />
-    <state width="1877" height="279" key="GridCell.Tab.1.bottom" timestamp="1595759213090">
+    <state width="1877" height="282" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1595779598468" />
+    <state width="1877" height="282" key="GridCell.Tab.1.center" timestamp="1595779598468">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="279" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1595759213090" />
-    <state width="1877" height="279" key="GridCell.Tab.1.center" timestamp="1595759213090">
+    <state width="1877" height="282" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1595779598468" />
+    <state width="1877" height="282" key="GridCell.Tab.1.left" timestamp="1595779598468">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="279" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1595759213090" />
-    <state width="1877" height="279" key="GridCell.Tab.1.left" timestamp="1595759213087">
+    <state width="1877" height="282" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1595779598468" />
+    <state width="1877" height="282" key="GridCell.Tab.1.right" timestamp="1595779598468">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="279" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1595759213087" />
-    <state width="1877" height="279" key="GridCell.Tab.1.right" timestamp="1595759213090">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="279" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1595759213090" />
-    <state x="189" y="200" key="new project wizard" timestamp="1595664305458">
-      <screen x="0" y="0" width="1920" height="1040" />
-=======
-    <state width="1493" height="259" key="GridCell.Tab.0.bottom" timestamp="1595762712389">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="259" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1595762712389" />
-    <state width="1493" height="259" key="GridCell.Tab.0.center" timestamp="1595762712388">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="259" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1595762712388" />
-    <state width="1493" height="259" key="GridCell.Tab.0.left" timestamp="1595762712388">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="259" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1595762712388" />
-    <state width="1493" height="259" key="GridCell.Tab.0.right" timestamp="1595762712388">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="259" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1595762712388" />
-    <state width="1493" height="259" key="GridCell.Tab.1.bottom" timestamp="1595762712389">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="259" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1595762712389" />
-    <state width="1493" height="259" key="GridCell.Tab.1.center" timestamp="1595762712389">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="259" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1595762712389" />
-    <state width="1493" height="259" key="GridCell.Tab.1.left" timestamp="1595762712389">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="259" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1595762712389" />
-    <state width="1493" height="259" key="GridCell.Tab.1.right" timestamp="1595762712389">
-      <screen x="0" y="0" width="1536" height="824" />
->>>>>>> 281f7641f9e19a31fbdc6225fe415dc05e273863
-    </state>
-    <state width="1493" height="259" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1595762712389" />
-    <state x="270" y="56" key="SettingsEditor" timestamp="1595755691244">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="270" y="56" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1595755691244" />
+    <state width="1877" height="282" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1595779598468" />
   </component>
 </project>

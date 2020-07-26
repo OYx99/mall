@@ -4,10 +4,13 @@ import com.example.mall.entity.OrderItem;
 import com.example.mall.entity.Product;
 import com.example.mall.entity.User;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.data.redis.core.RedisTemplate;
+import org.springframework.data.redis.core.StringRedisTemplate;
 import org.springframework.stereotype.Service;
 import com.example.mall.service.ProductService;
 import com.example.mall.service.ShopCartService;
 
+import javax.naming.InsufficientResourcesException;
 import javax.servlet.http.HttpServletRequest;
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -21,9 +24,13 @@ public class ShopCartServiceImpl implements ShopCartService {
     @Autowired
     private ProductService productService;
 
+    //用redis来操作购物车
+    @Autowired
+    private RedisTemplate redisTemplate;
+
     /**
      * 加购物车
-     * 将商品id保存到Session中List<Integer>中
+     * 将商品id保存到redis中List中
      */
     @Override
     public void addCart(int productId, HttpServletRequest request) throws Exception {
@@ -31,18 +38,19 @@ public class ShopCartServiceImpl implements ShopCartService {
         if (loginUser == null) {
             throw new Exception("未登录！请重新登录");
         }
-        List<Integer> productIds = (List<Integer>) request.getSession().getAttribute(NAME_PREFIX + loginUser.getId());
-        if (productIds == null) {
-            productIds = new ArrayList<>();
-            request.getSession().setAttribute(NAME_PREFIX + loginUser.getId(), productIds);
-        }
-        productIds.add(productId);
+        redisTemplate.opsForList().rightPush(NAME_PREFIX + loginUser.getId(), productId);
+//        List<Integer> productIds = (List<Integer>) request.getSession().getAttribute(NAME_PREFIX + loginUser.getId());
+//        if (productIds == null) {
+//            productIds = new ArrayList<>();
+//            request.getSession().setAttribute(NAME_PREFIX + loginUser.getId(), productIds);
+//        }
+//        productIds.add(productId);
     }
 
     /**
      * 移除
      *
-     * 移除session List中对应的商品Id
+     * 移除redis List中对应的商品Id
      */
     @Override
     public void remove(int productId, HttpServletRequest request) throws Exception {
@@ -50,11 +58,12 @@ public class ShopCartServiceImpl implements ShopCartService {
         if (loginUser == null) {
             throw new Exception("未登录！请重新登录");
         }
-        List<Integer> productIds = (List<Integer>) request.getSession().getAttribute(NAME_PREFIX + loginUser.getId());
+        List<Integer> productIds = redisTemplate.opsForList().range(NAME_PREFIX + loginUser.getId(), 0, -1);
         Iterator<Integer> iterator = productIds.iterator();
         while (iterator.hasNext()) {
             if (productId == iterator.next()) {
                 iterator.remove();
+                redisTemplate.opsForList().remove(NAME_PREFIX + loginUser.getId(), 1, productId);
             }
         }
     }
@@ -62,7 +71,7 @@ public class ShopCartServiceImpl implements ShopCartService {
     /**
      * 查看购物车
      *
-     * 查询出session的List中所有的商品Id,并封装成List<OrderItem>返回
+     * 查询出redis的List中所有的商品Id,并封装成List<OrderItem>返回
      */
     @Override
     public List<OrderItem> listCart(HttpServletRequest request) throws Exception {
@@ -70,7 +79,7 @@ public class ShopCartServiceImpl implements ShopCartService {
         if (loginUser == null) {
             throw new Exception("未登录！请重新登录");
         }
-        List<Integer> productIds = (List<Integer>) request.getSession().getAttribute(NAME_PREFIX + loginUser.getId());
+        List<Integer> productIds = redisTemplate.opsForList().range(NAME_PREFIX + loginUser.getId(), 0, -1);
         // key: productId value:OrderItem
         Map<Integer, OrderItem> productMap = new HashMap<>();
         if (productIds == null){
@@ -108,6 +117,6 @@ public class ShopCartServiceImpl implements ShopCartService {
         if (loginUser == null) {
             throw new Exception("未登录！请重新登录");
         }
-        request.getSession().removeAttribute(NAME_PREFIX + loginUser.getId());
+        redisTemplate.delete(NAME_PREFIX + loginUser.getId());
     }
 }

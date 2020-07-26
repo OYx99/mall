@@ -1,11 +1,11 @@
 <!DOCTYPE html>
-<html xmlns:th="http://www.thymeleaf.org">
+<html xmlns:th="http://www.thymeleaf.org" >
 <head>
     <meta charset="utf-8"/>
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
     <meta name="renderer" content="webkit"/>
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
-    <title>SCNUMall</title>
+    <title>SCNU Mall | 华师商城</title>
     <link rel="stylesheet" th:href="@{/layui/css/layui.css}"/>
     <link th:href="@{/css/font-awesome.min.css}" rel="stylesheet" type="text/css"/>
     <link th:href="@{/css/common.css}" rel="stylesheet" type="text/css"/>
@@ -16,7 +16,7 @@
 <!--包含 头部模块-->
 <div th:replace="mall/common::head"></div>
 <!--页面主体内容-->
-<div class="layui-container" id="content">
+<div class="layui-container" id="content" >
     <!--热门商品-->
     <div class="layui-row">
         <div class="layui-col-md12"><h1 class="site-h1"><i class="fa fa-heart" style="color: #FF5722;"></i> &nbsp;热门商品
@@ -82,14 +82,15 @@
         function appendToPage(div, data) {
             $(data).each(function (index, item) {
                 var productDiv = $("<div class='layui-col-md3 layui-col-xs6'></div>");
-                var conetDiv = $("<div class='card layui-anim layui-anim-scale'></div>");
+                var conetDiv = $("<div class='card layui-anim layui-anim-scale' style='background-color: #FFFFFF'></div>");
                 productDiv.append(conetDiv);
                 var imgdiv = $("<div class='product_image'><img src=" + item.image + "></div>");
                 conetDiv.append(imgdiv);
-                var priceDiv = $("<div style='text-align: left;'>商城价：<span class='price1'>" + item.shopPrice + "</span></div>");
-                conetDiv.append(priceDiv);
                 conetDiv.append($("<div class='product_title'><a href='/mall/product/get.html?id="+item.id+"'>" + item.title + "</a></div>"));
                 div.append(productDiv);
+                var priceDiv = $("<div style='text-align: left;font-size: 12px;'>商城价：<span class='price1'>" + item.shopPrice + "</span></div>");
+                conetDiv.append(priceDiv);
+
             });
         }
 
